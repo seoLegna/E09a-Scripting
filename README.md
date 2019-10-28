@@ -1,5 +1,9 @@
 # E09a-Scripting
 
+
+This is really cool and fun!
+Its a little confusing now, but I am sure I will soon get used to it.
+
 We will continue adding on to the first Godot project (E08a-Paddle-Ball). In this exercise, we will be learning more about scripting and signals in gdScript.
 
 As usual, Fork and Clone this repository. Pay attention to where (on the file system) it is being saved.
